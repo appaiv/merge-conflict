@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 some changes
+changes made from the repoB
+=======
+changes made from the repo B
+>>>>>>> 23913c7 (changes in a.txt made from repoB)
